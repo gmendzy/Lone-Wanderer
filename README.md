@@ -1,4 +1,5 @@
-# CPSC362GameProject
+# Lone Wanderer
+
 
 Turned-Based RPG game developed in pygame
 
